@@ -53,7 +53,7 @@ We found insights and provided recommendations on the following areas:
 - How we might be able to improve e-commerce, and implement more rigorous and better strategies to improve e-commerce sector
 
 ## 7) Repository directory  
-1. Folder: Datasets.zip [Please unzip before using]
+1. Folder: Datasets
 2. Folder: Images
 3. Brazilian Ecommerce_PT1 Team 4 .ipynb
 4. Presentation Slides - PT1_Team 4.pptx
